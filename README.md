@@ -1,5 +1,4 @@
 Akan Name Generator by martha mwangi
-
 Description
 The Akan people are a historically important ethnic group of West Africa
  Frequently, children are given a "day name" which corresponds to the day in the week when they are born in Ghana.
